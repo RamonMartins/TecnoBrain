@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Jose dos Santos",
+        "dataNascimento": "15/06/1985",
+        "funcao": "Operador de Empilhadeira"
+    },
+    {
+        "id": 2,
+        "nome": "Lucivan Silva",
+        "dataNascimento": "15/06/1992",
+        "funcao": "Pedreiro"
+    },
+    {
+        "id": 3,
+        "nome": "Renata Ferreira",
+        "dataNascimento": "15/06/1981",
+        "funcao": "Engenheiro Civil"
+    }
+]
